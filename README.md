@@ -464,5 +464,7 @@ By leveraging Chainlink VRF for fairness and smart contracts for transparency, G
 
 Website: https://gamemastertoken.io
 GitHub: https://github.com/gamemastertoken
+Twitter: https://x.com/GamaKogato
+Reddit: https://www.reddit.com/user/Potential-Tune597/
 
-For qny donnation : 0x0a924665797250FedA8E629Bec62a758cc5B500F
+For support : 0x0a924665797250FedA8E629Bec62a758cc5B500F
